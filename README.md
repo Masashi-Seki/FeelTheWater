@@ -2,10 +2,10 @@
 Code of Feel the Water, final task of interactive art class.
 
 # Description
-##--- Connection ---
+## --- Connection ---
 URG ---(USBケーブル)--- PC1 ---(LANケーブル)--- PC2 --- プロジェクタ
 
-##--- Code ---
+## --- Code ---
 # Main Side
 メインプロセス側のプログラム
 グラフィックの絵画を行う
