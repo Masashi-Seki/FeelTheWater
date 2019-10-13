@@ -1,6 +1,13 @@
 # FeelTheWater
+Code of Feel the Water, final task of interactive art class.
 
-## 接続
+# Description
+## Connection
 URG ---(USBケーブル)--- PC1 ---(LANケーブル)--- PC2 --- プロジェクタ
 
-##
+## Main Side
+メインプロセス側のプログラム
+グラフィックの絵画を行う
+
+## URG Side
+測域センサ（URG）の点群処理を行うプログラム
