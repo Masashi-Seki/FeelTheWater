@@ -11,3 +11,6 @@ URG ---(USB)--- PC1 ---(LAN)--- PC2 ---(VGA)--- プロジェクタ
 
 ### URG Side
 測域センサ（URG）の点群処理を行うプログラム．検知した物体の位置を送信する．
+
+# Detailed explanation
+Feel The Water https://www.masashi.tech/feelthewater
